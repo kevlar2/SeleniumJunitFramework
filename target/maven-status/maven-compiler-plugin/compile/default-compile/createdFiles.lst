@@ -1,0 +1,4 @@
+BasePage\Base.class
+pageObjects\DynamicLoading.class
+resources\Config.class
+pageObjects\Login.class
